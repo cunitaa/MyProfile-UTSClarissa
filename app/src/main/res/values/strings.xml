@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">MyProfile</string>
+    <string name="nama_lengkap">Nama Lengkap</string>
+    <string name="tempat_lahir">Tempat Lahir</string>
+    <string name="tanggal_lahir_pilih_tanggal">Tanggal Lahir (Pilih Tanggal)</string>
+    <string name="jenis_kelamin">Jenis Kelamin</string>
+    <string name="laki_laki">Laki-laki</string>
+    <string name="perempuan">Perempuan</string>
+    <string name="jurusan">Jurusan</string>
+    <string name="status_mahasiswa_aktif">Status Mahasiswa Aktif</string>
+    <string name="pilih_gambar">PILIH GAMBAR</string>
+    <string name="hobi">Hobi</string>
+    <string name="bio">Bio</string>
+    <string name="simpan_lihat_profile">SIMPAN &amp; LIHAT PROFILE</string>
+    <string name="profile_info">Profile Info</string>
+    <string name="kembali">KEMBALI</string>
+    <string name="nama_label">Nama: %s</string>
+    <string name="ttl_label">TTL: %1$s, %2$s</string>
+    <string name="umur_label">Umur: %d tahun</string>
+    <string name="zodiak_label">Zodiak: %s</string>
+    <string name="gender_label">Gender: %s</string>
+    <string name="jurusan_label">Jurusan: %s</string>
+    <string name="status_label">Status: %s</string>
+
+    <string-array name="jurusan_array">
+        <item>Sistem Informasi</item>
+        <item>Teknik Informatika</item>
+        <item>Teknik Industri</item>
+        <item>Manajemen</item>
+        <item>Akuntansi</item>
+    </string-array>
+</resources>
